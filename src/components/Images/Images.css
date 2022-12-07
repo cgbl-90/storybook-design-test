@@ -1,0 +1,12 @@
+img {
+    border-radius: 20px;
+    border: .5px solid grey;
+}
+
+.bg_img {
+    width: 400px;
+}
+
+.sm_img {
+    width: 200px;
+}
